@@ -9,5 +9,5 @@ pip install requests
 python main.py <username>
 ```
 
-## How to use
+## Inspiration
 https://roadmap.sh/projects/github-user-activity
